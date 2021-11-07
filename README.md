@@ -1,11 +1,11 @@
 # Regular-Expressions
-A primer on Regular Expressions using Python for examples
+This is Regular Expressions for beginners and intermediates in their quest. It's useful in any language and I use here Python to show some cool examples.
 
 A regular expression (also referred to as “regex” or “regexp”), provides a concise and flexible means for matching strings of text, such as particular characters, words, or patterns of characters. 
 
-A regular expression is written in a formal language that can be interpreted by a regular expression processor.
+A regular expression is written in a formal language that can be interpreted by a regular expression processor, including some word processors or programming languages.
 
-> Really clever “wild card” expressions for matching and parsing strings. Smart “Find” or “Search”.
+> It's clever “wild card” expressions for matching and parsing strings. Really smart “Find” or “Search”.
 
 ### Understanding Regular Expressions! ###
 
