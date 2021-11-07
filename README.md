@@ -27,5 +27,5 @@ A regular expression is written in a formal language that can be interpreted by 
 ![xkcd](https://imgs.xkcd.com/comics/regular_expressions.png)
 
 
-
+So, you're welcome to take a look inside and share your comments here or any social network.
 
